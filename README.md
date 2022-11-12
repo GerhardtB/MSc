@@ -1,2 +1,2 @@
 # MSc
-Notebopks for MSc data processing.
+Notebooks for MSc data processing.
