@@ -1,0 +1,12 @@
+pandas
+matplotlib
+pathlib
+numpy
+seaborn
+xarray
+geopandas
+lxml
+glob2
+Shapely
+rioxarray
+cartopy
